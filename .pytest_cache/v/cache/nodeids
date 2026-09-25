@@ -1,0 +1,5 @@
+[
+  "tests/test_shuriken.py::test_analytic_z6_embeddings",
+  "tests/test_shuriken.py::test_local_k_repair_survives_track_defects",
+  "tests/test_shuriken.py::test_open_patch_counts"
+]

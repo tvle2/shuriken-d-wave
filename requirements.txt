@@ -1,0 +1,3 @@
+dwave-cloud-client
+minorminer
+networkx
