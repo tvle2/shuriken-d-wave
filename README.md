@@ -1,9 +1,4 @@
-# Shuriken D-Wave Mapping
-
-
-## Scope: Gate 0A
-
-The first question is purely graph-theoretic/hardware-connectivity:
+# Shuriken D-Wave
 
 > Can an open Shuriken interaction graph be represented with one physical
 > qubit per logical spin on the live `Advantage2_system4` working graph?
